@@ -1,6 +1,6 @@
 # test_devin
 
-## Peshawar Premier Cup 2026 — landing page
+## Peshawar Premier Cup 2027 — landing page
 
 Static landing page for a football tournament in Peshawar. No build step or dependencies.
 

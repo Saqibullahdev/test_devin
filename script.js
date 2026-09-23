@@ -16,7 +16,7 @@
     }
   });
 
-  var KICKOFF = new Date("2026-03-14T15:00:00+05:00").getTime();
+  var KICKOFF = new Date("2027-03-14T15:00:00+05:00").getTime();
   var countdown = document.getElementById("countdown");
   var units = {
     days: countdown.querySelector('[data-unit="days"]'),
